@@ -8,5 +8,5 @@ label_primary: "manualidad"
 label_success: "escolar"
 label_info: "regalos"
 label_warning: ""
-label_danger: 
+label_danger: ""
 ---
