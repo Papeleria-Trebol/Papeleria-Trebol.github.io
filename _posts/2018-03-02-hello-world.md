@@ -7,6 +7,6 @@ label_default: "pedido"
 label_primary: "manualidad"
 label_success: "escolar"
 label_info: "regalos"
-label_warning: 
+label_warning: ""
 label_danger: 
 ---
